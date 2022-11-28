@@ -12,10 +12,10 @@ The main program was created using a Python Jupyter Notebook. Python libraries *
 ### Data Used
 
 Example Data File:
-![DataExample](Olympics-Data-Analysis/Readme_Metadata/Data_Example_Image.png)
+![DataExample](https://github.com/Jain-Nishkarsh/Olympics-Data-Analysis/blob/main/Readme_Metadata/Data_Example_Image.png)
 
 Data Field Description:
-![DataFieldDescription](Olympics-Data-Analysis/Readme_Metadata/DataDescription_Image.png)
+![DataFieldDescription](https://github.com/Jain-Nishkarsh/Olympics-Data-Analysis/blob/main/Readme_Metadata/DataDescription_Image.png)
 
 ---
 ### Functions Used in this Program
